@@ -1,6 +1,6 @@
 # Extract & Compute Kata
 
-##Background
+## Background
 
 In this directory you will find two data files `consumption_data.json` and `consumption_data.csv`. Both contain and identical set of data. This is;
 
@@ -9,19 +9,19 @@ In this directory you will find two data files `consumption_data.json` and `cons
 * Date and time information in ISO 8601 format
 * Electricity consumption in **Wh**
 
-##The Brief
+## The Brief
 
 We would like you to;
 
 1. Load a data file (doesn't matter which)
 2. Extract the consumption data for sensor ID `b08c6195-8cd9-43ab-b94d-e0b887dd73d2`
-3. Calculate the sensor's total daily consumption in **kWh** (should be `10.713 kWh`)
-4. Calculate the sensor's average hourly consumption from 00:00 to 07:00 inclusive (should be `0.322875 kWh`)
-5. Calculate the sensor's average hourly consumption from 08:00 to 15:00 inclusive (should be `0.44925 kWh`)
-5. Calculate the sensor's average hourly consumption from 16:00 to 23:00 inclusive (should be `0.567 kWh`)
+3. Calculate the sensor's total daily consumption in **kWh** (`10.713 kWh`)
+4. Calculate the sensor's average hourly consumption from 00:00 to 07:00 inclusive (`0.322875 kWh`)
+5. Calculate the sensor's average hourly consumption from 08:00 to 15:00 inclusive (`0.44925 kWh`)
+5. Calculate the sensor's average hourly consumption from 16:00 to 23:00 inclusive (`0.567 kWh`)
 
 
-##Approach
+## Approach
 
 Through this exercise we're looking for the following;
 
@@ -29,4 +29,4 @@ Through this exercise we're looking for the following;
 * Test Driven Development. This doesn't have to be dogmatic but we do want you to bake in quality
 * The same excellent development practices you use in your day job
 * Great communication (Dave is a junior Scala engineer pairing with you)
-* Feel free to use the Internet (Google, Travis or libraries / frameworks etc...). Whatever makes your life easier!
+* Feel free to use the Internet (Google, Travis or libraries / frameworks etc...) Whatever makes your life easier!
