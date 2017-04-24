@@ -2,7 +2,7 @@
 
 ## Background
 
-In this directory you will find two data files `consumption_data.json` and `consumption_data.csv`. Both contain and identical set of data. This is;
+In `src/main/resources` you will find two data files `consumption_data.json` and `consumption_data.csv`. Both contain and identical set of data. This is;
 
 * Electricity consumption data for 3 sensors
 * 1 reading per hour on the hour for a single day 
