@@ -13,12 +13,13 @@ In `src/main/resources` you will find two data files `consumption_data.json` and
 
 We would like you to;
 
-1. Load a data file (doesn't matter which)
-2. Extract the consumption data for sensor ID `b08c6195-8cd9-43ab-b94d-e0b887dd73d2`
-3. Calculate the sensor's total daily consumption in **kWh** (`10.713 kWh`)
-4. Calculate the sensor's average hourly consumption from 00:00 to 07:00 inclusive (`0.322875 kWh`)
-5. Calculate the sensor's average hourly consumption from 08:00 to 15:00 inclusive (`0.44925 kWh`)
-5. Calculate the sensor's average hourly consumption from 16:00 to 23:00 inclusive (`0.567 kWh`)
+1. Branch with your name or something that helps us identify your solution
+2. Load a data file (doesn't matter which)
+3. Extract the consumption data for sensor ID `b08c6195-8cd9-43ab-b94d-e0b887dd73d2`
+4. Calculate the sensor's total daily consumption in **kWh** (`10.713 kWh`)
+5. Calculate the sensor's average hourly consumption from 00:00 to 07:00 inclusive (`0.322875 kWh`)
+6. Calculate the sensor's average hourly consumption from 08:00 to 15:00 inclusive (`0.44925 kWh`)
+7. Calculate the sensor's average hourly consumption from 16:00 to 23:00 inclusive (`0.567 kWh`)
 
 
 ## Approach
